@@ -141,8 +141,7 @@ Luego de realizar los crazy 8 , se desarrolló el prototipo de baja fidelidad, e
 
 ## PROTOTIPADO
 
-![image](https://user-images.githubusercontent.com/47748753/58359592-d56e5180-7e
-49-11e9-9c12-d4761b2c0a3b.png)
+![image](https://user-images.githubusercontent.com/47748753/58359983-bffa2700-7e4b-11e9-9ee2-ac64c78335c1.png)
 
 Después de realizar el prototipo de baja fidelidad en lápiz y papel y su respectivo testeo, realizamos el prototipo de alta fidelidad en Figma.
 
@@ -237,8 +236,8 @@ Se resumió todo el texto que explicaba la metodología en la página web princi
 
 ![image](https://user-images.githubusercontent.com/47748753/58352790-44d84700-7e32-11e9-8b5b-778b0aa481b4.png)
 
-Para continuar viendo dale click al link: 
-[link](https://invis.io/WZS37D3UCJ5#/365291028_Andi_Presentaci-n_Final_-5-)
+Para continuar viendo nuestro prototipo en InVision dale click al  siguiente
+[link](https://invis.io/WZS37D3UCJ5#/365291028_Andi_Presentaci-n_Final_-5-).
 
 ### Objetivos del proyecto
 
