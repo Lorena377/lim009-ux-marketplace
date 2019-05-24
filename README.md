@@ -4,7 +4,7 @@ Ante el deseo de un futuro mejor, la necesidades de una educación de calidad y 
 
 ## DESCUBRIMIENTO E IDEACIÓN
 
-https://i.ibb.co/NFqyDJ7/descubrimiento.png
+![image](https://user-images.githubusercontent.com/47748753/58359563-b66fbf80-7e49-11e9-9391-d83396a4519b.png)
 
 Para iniciar con el proyecto iniciamos  la primera etapa, descubrimiento e ideación, para ello realizamos entrevistas a nuestro cliente Andi The Coach, a los usuarios y a los posibles usuarios que encajaban con el perfil. De esta forma conoceríamos a nuestro cliente y sabríamos cómo se sienten los usuarios con respecto al servicio brindado.
 
@@ -61,7 +61,7 @@ Conclusiones:
 
 ## SÍNTESIS Y DEFINICIÓN
 
-https://i.ibb.co/1Gnt80R/2.png
+![image](https://user-images.githubusercontent.com/47748753/58359572-bff92780-7e49-11e9-9869-dd908f95d10f.png)
 
 En base a todo lo observado obtuvimos datos sumamente importantes, para ello realizamos el Affinity Map y el Customer Journey Map e identificamos a nuestro User Persona.
 
@@ -91,7 +91,9 @@ Al realizar el affinity map se encontraron varios puntos insights, con esto iden
 ### Problem Statements
 
 Existen distintas formas de definir un problema. Nosotras usamos el siguiente patrón:
+
 {Persona} necesita una manera {necesidad}, porque/para {insight}.
+
 - Lucía necesita conocer testimonios, para confiar en la enseñanza.
 - Lucía necesita tomar la prueba gratis, para tener una idea de cómo serán sus clases.
 - Lucía necesita diversas plataformas de video llamadas para poder decidir cual usará.
@@ -109,7 +111,7 @@ Los HMW nos ayudaron a entender mejor los problemas y desarrollar mejores hipót
 
 ## IDEACIÓN
 
-https://i.ibb.co/P123fzf/3.png
+![image](https://user-images.githubusercontent.com/47748753/58359586-cdaead00-7e49-11e9-8d49-d164296d7c03.png)
 
 En esta etapa buscamos las mejores maneras para desarrollar las funcionalidades definidas en la etapa de síntesis.
 
@@ -139,7 +141,8 @@ Luego de realizar los crazy 8 , se desarrolló el prototipo de baja fidelidad, e
 
 ## PROTOTIPADO
 
-https://i.ibb.co/vYBvh6X/4.png
+![image](https://user-images.githubusercontent.com/47748753/58359592-d56e5180-7e
+49-11e9-9c12-d4761b2c0a3b.png)
 
 Después de realizar el prototipo de baja fidelidad en lápiz y papel y su respectivo testeo, realizamos el prototipo de alta fidelidad en Figma.
 
@@ -235,7 +238,7 @@ Se resumió todo el texto que explicaba la metodología en la página web princi
 ![image](https://user-images.githubusercontent.com/47748753/58352790-44d84700-7e32-11e9-8b5b-778b0aa481b4.png)
 
 Para continuar viendo dale click al link: 
-![link](https://invis.io/WZS37D3UCJ5#/365291028_Andi_Presentaci-n_Final_-5-)
+[link](https://invis.io/WZS37D3UCJ5#/365291028_Andi_Presentaci-n_Final_-5-)
 
 ### Objetivos del proyecto
 
